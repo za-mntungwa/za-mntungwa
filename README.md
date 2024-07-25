@@ -1,8 +1,8 @@
 ## Hi there, I'm Victor! 👋
 ### 👨‍💻 About Me
-🔭 I’m currently exploring the realms of Data Engineering and expanding my skills in this domain.
-🌱 I’m learning and growing every day, transitioning from Data Analysis to Data Engineering.
-👷‍♂️ I’m looking to collaborate on projects focusing on scalable data pipelines and analytics solutions.
+🔭 I’m currently exploring the realms of Data Engineering and expanding my skills in this domain. <br>
+🌱 I’m learning and growing every day, transitioning from Data Analysis to Data Engineering. <br>
+👷‍♂️ I’m looking to collaborate on projects focusing on scalable data pipelines and analytics solutions. <br>
 ### 🚀 Skills
 <!-- + **Data Engineering:** Developing robust data pipelines, ETL processes, and data warehousing. -->
 + **Data Analysis:** Proficient in analysing complex datasets, deriving insights, and visualising data.
