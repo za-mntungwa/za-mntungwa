@@ -18,7 +18,7 @@
 + Project Name: Brief description highlighting your role and key technologies used.
 + Project Name: Brief description highlighting your role and key technologies used.
 -->
-### 📫 How to Reach Me
+### 📫 Reach Me
 [LinkedIn](https://www.linkedin.com/in/za-mntungwa/)
 | [Email](za.mntungwa@icloud.com)
 ### 💬 Let's Connect!
