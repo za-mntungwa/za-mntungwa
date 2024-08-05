@@ -26,7 +26,7 @@
 | [Email](za.mntungwa@icloud.com)
 
 I'm passionate about leveraging data to drive meaningful insights and would love to connect with like-minded professionals.
-#### ⚡ Fun fact: IBM TechType Quiz says I'm an Investigative Navigator!
+#### ⚡ Fun fact: IBM TechType Quiz says I'm an Investigative Navigator! Have you checked it out yet?
 
 <!---
 za-mntungwa/za-mntungwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
