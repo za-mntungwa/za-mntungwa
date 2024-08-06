@@ -1,5 +1,5 @@
 ## Hi there, I'm Victor! 👋
-<img align="right" width="500" src="https://github.com/user-attachments/assets/02ba04bb-1c15-465e-b7b7-0be14202486d">
+<img align="right" width="505" src="https://github.com/user-attachments/assets/02ba04bb-1c15-465e-b7b7-0be14202486d">
 
 ### 👨‍💻 About Me
 🔭 I’m currently exploring the realms of Data Engineering and expanding my skills in this domain. </br>
