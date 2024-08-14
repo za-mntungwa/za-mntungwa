@@ -1,4 +1,4 @@
-## Hi there, I'm Victor! 👋
+## Dumela, I'm Victor! 👋
 <img align="right" width="505" src="https://github.com/user-attachments/assets/02ba04bb-1c15-465e-b7b7-0be14202486d">
 
 ### 👨‍💻 About Me
@@ -9,7 +9,7 @@
 <!-- + **Data Engineering:** Developing robust data pipelines, ETL processes, and data warehousing. -->
 
 + **Data Analysis:** Proficient in analysing complex datasets, deriving insights, and visualising data.
-+ **Programming:** Python, SQL, R, bash, Git, and familiarity with Scikit-Learn, TensorFlow.
++ **Programming:** Python, SQL, R, bash, Git, and familiarity with Scikit-Learn.
 ### 🔧 Tools
 + Database: MySQL <!--, MongoDB -->
 + Big Data: …
