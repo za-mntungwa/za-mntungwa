@@ -8,7 +8,7 @@
 ### 🚀 Skills
 <!-- + **Data Engineering:** Developing robust data pipelines, ETL processes, and data warehousing. -->
 
-+ **Data Analysis:** Proficient in analysing complex datasets, deriving insights, and visualising data.
++ **Data Analytics:** Proficient in analysing complex datasets, deriving insights, and visualising data.
 + **Programming:** Python, SQL, R, bash, Git, and familiarity with Scikit-Learn.
 ### 🔧 Tools
 + Database: MySQL <!--, MongoDB -->
