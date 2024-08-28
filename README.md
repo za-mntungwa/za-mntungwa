@@ -15,7 +15,7 @@
 + Big Data: …
 + Cloud: Azure, AWS
 + Visualisation: Tableau, Power BI, Cognos Analytics
-+ Statistical: Excel
++ Data Analysis: Excel
 <!-- ### 📊 Projects
 + Project Name: Brief description highlighting your role and key technologies used.
 + Project Name: Brief description highlighting your role and key technologies used.
