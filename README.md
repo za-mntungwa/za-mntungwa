@@ -6,16 +6,11 @@
 🌱 I’m learning and growing every day, focusing on Data Analytics and Data Engineering. </br>
 👷‍♂️ I’m looking to collaborate on projects focusing on scalable data pipelines and analytics solutions. </br>
 ### 🚀 Skills
-<!-- + **Data Engineering:** Developing robust data pipelines, ETL processes, and data warehousing. -->
-
-+ **Data Analytics:** Proficient in analysing complex datasets, deriving insights, and visualising data.
-+ **Programming:** Python, SQL, R, bash, Git, and familiarity with Scikit-Learn.
-### 🔧 Tools
-+ Database: MySQL <!--, MongoDB -->
-+ Big Data: …
-+ Cloud: Azure, AWS
-+ Visualisation: Tableau, Power BI, Cognos Analytics
-+ Data Analysis: Excel
++ Languages: Python, SQL, R
++ Frameworks: Scikit-Learn, RestAPI
++ Tools: MySQL <!--, MongoDB -->, Excel, VS Code, Git, Tableau, IBM Cognos, Microsoft Office
++ Libraries: pandas, NumPy, Matplotlib, Seaborn, SQLite
++ Cloud: Azure Fundamentals, AWS Cloud Practitioner
 <!-- ### 📊 Projects
 + Project Name: Brief description highlighting your role and key technologies used.
 + Project Name: Brief description highlighting your role and key technologies used.
