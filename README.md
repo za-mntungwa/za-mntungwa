@@ -13,7 +13,7 @@
 + Tools: MySQL <!--, MongoDB -->, Excel, VS Code, Git, Tableau, IBM Cognos, Microsoft Office
 + Libraries: pandas, NumPy, Matplotlib, Seaborn, SQLite
 + Cloud: Azure Fundamentals, AWS Cloud Practitioner
-<!-- ### 📊 Projects
+<!-- ### 💡 Projects
 + Project Name: Brief description highlighting your role and key technologies used.
 + Project Name: Brief description highlighting your role and key technologies used.
 + Project Name: Brief description highlighting your role and key technologies used.
@@ -23,7 +23,6 @@
 | [Email](za.mntungwa@icloud.com)
 
 <!---
-I'm passionate about leveraging data to drive meaningful insights and would love to connect with like-minded professionals.
 #### ⚡ Fun fact: IBM TechType Quiz says I'm an Investigative Navigator! Have you checked it out yet?
 --->
 
