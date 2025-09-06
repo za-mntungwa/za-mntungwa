@@ -23,7 +23,7 @@
 | [Email](za.mntungwa@icloud.com)
 
 
-#### ⚡ Fun fact: IBM TechType Quiz says I'm an Investigative Navigator! Have you checked [it](https://techtypequiz.com) out yet?
+#### ⚡ Fun fact: The IBM [TechTypeQuiz](https://techtypequiz.com) says that I'm an Investigative Navigator! Have you checked it out yet?
 
 <!---
 za-mntungwa/za-mntungwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
