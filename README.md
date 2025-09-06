@@ -12,7 +12,7 @@
 <!-- + Frameworks: Scikit-Learn, RestAPI -->
 + Tools: MySQL <!--, MongoDB -->, PowerBI, Excel, VS Code, GitHub, Tableau, RStudio, Microsoft Office
 + Libraries: pandas, NumPy, Matplotlib, Seaborn, SQLite
-+ Cloud: Azure Fundamentals, AWS Cloud Practitioner
++ Cloud: Azure Fundamentals, AWS Cloud Practitioner Essentials
 <!-- ### 💡 Projects
 + Project Name: Brief description highlighting your role and key technologies used.
 + Project Name: Brief description highlighting your role and key technologies used.
