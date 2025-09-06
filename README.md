@@ -3,7 +3,7 @@
 
 ### 👨‍💻 About Me
 🔭 I’m currently exploring the realms of Data Science and expanding my skills in this domain. </br>
-🌱 I’m learning and growing every day, focusing on Data Science and Machine Learning. </br>
+🌱 I’m learning and growing every day, focusing on Data Analytics and Machine Learning. </br>
 <!--
 👷‍♂️ I’m looking to collaborate on projects focusing on scalable data and analytics solutions. </br>
 -->
