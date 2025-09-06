@@ -12,7 +12,7 @@
 ### 🚀 Skills
 + Languages: Python, SQL, R
 <!-- + Frameworks: Scikit-Learn, RestAPI -->
-+ Tools: MySQL <!--, MongoDB -->, Excel, VS Code, GitHub, Tableau, RStudio, Microsoft Office
++ Tools: MySQL <!--, MongoDB -->, PowerBI, Excel, VS Code, GitHub, Tableau, RStudio, Microsoft Office
 + Libraries: pandas, NumPy, Matplotlib, Seaborn, SQLite
 + Cloud: Azure Fundamentals, AWS Cloud Practitioner
 <!-- ### 💡 Projects
