@@ -2,15 +2,15 @@
 <img align="right" width="350" src="https://github.com/user-attachments/assets/02ba04bb-1c15-465e-b7b7-0be14202486d">
 
 ### 👨‍💻 About Me
-🌱 I’m learning and growing every day, focusing on Data Science and expanding my skills in this domain. </br>
+🌱 I’m learning Data Science and expanding my skills in this domain, focusing on Business Intelligence and Machine Learning. </br>
 <!--
-👷‍♂️ I’m looking to collaborate on projects focusing on scalable data and analytics solutions. </br>
+👷‍♂️ I’m looking to collaborate on projects focusing on scalable Data Analytics and Machine Learning solutions. </br>
 -->
 ### 🚀 Skills
 + Languages: Python, SQL, R
-+ Frameworks: Scikit-Learn
++ Frameworks: scikit-learn
 + Tools: MySQL <!--, MongoDB -->, Power BI, Excel, VS Code, GitHub, Tableau, RStudio, Microsoft Office
-+ Libraries: pandas, NumPy, Matplotlib, Seaborn, SQLite
++ Libraries: NumPy, pandas, matplotlib, Seaborn, SQLite
 + Cloud: Azure Fundamentals, AWS Cloud Practitioner Essentials
 <!-- ### 💡 Projects
 + Project Name: Brief description highlighting your role and key technologies used.
