@@ -8,14 +8,14 @@
 -->
 ### 🚀 Skills
 <!--
-+ Languages: Python, SQL, R
++ Languages: SQL, Python, R
 + Frameworks: scikit-learn
 + Tools: MySQL, MongoDB, Power BI, Excel, VS Code, GitHub, Tableau, RStudio, Microsoft Office
 + Libraries: NumPy, pandas, matplotlib, Seaborn, SQLite
 + Cloud: Azure Fundamentals, AWS Cloud Practitioner Essentials
 -->
-+ Proficient: Python, SQL, Power BI, Excel <!-- , AWS (S3, Redshift, Glue, SageMaker, Lambda) -->
-+ Familiar: R, Tableau <!-- , D3.js -->, Azure <!-- , dbt, Docker, Kubernetes, Terraform ? -->
++ Proficient: SQL, Python, Power BI, Excel <!-- , AWS (S3, Redshift, Glue, SageMaker, Lambda) -->
++ Familiar: R, Tableau<!-- , D3.js -->, Azure<!-- , dbt, Docker, Kubernetes, Terraform ? -->
 + Other: Agile, git, GitHub, VS Code, Jupyter Notebook, bash/Shell, LaTeX
 <!-- ### 💡 Projects
 + Project Name: Brief description highlighting your role and key technologies used.
