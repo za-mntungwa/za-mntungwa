@@ -16,7 +16,7 @@
 -->
 + Proficient: SQL, Python, Power BI, Excel <!-- , AWS (S3, Redshift, Glue, SageMaker, Lambda) -->
 + Familiar: R, Tableau<!-- , D3.js -->, Azure<!-- , dbt, Docker, Kubernetes, Terraform ? -->
-+ Other: Agile, git, GitHub, VS Code, Jupyter Notebook, bash/Shell, LaTeX
++ Other: Agile, git, bash/Shell, LaTeX
 <!-- ### 💡 Projects
 + Project Name: Brief description highlighting your role and key technologies used.
 + Project Name: Brief description highlighting your role and key technologies used.
